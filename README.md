@@ -70,6 +70,16 @@ Usamos um laço 'for-each' para iterar sobre cada elemento do array e imprimir s
 - Neste exercício, você aprenderá a criar um array de inteiros em Java e a encontrar o maior elemento presente nesse array. Identificar o maior elemento de um array é uma operação comum em muitas aplicações, como encontrar o valor máximo em um conjunto de dados.
 
 
+### Explicação do 'for-each':
+![analisar](https://github.com/user-attachments/assets/5b1d7576-63fe-4a75-80a3-b9a8fc489fd5)
+
+### Explicação:
+1. Inicialização da variável 'maior':
+
+![analisar](https://github.com/user-attachments/assets/a3b04d62-b62f-4a87-a71c-9716fff605e2)
+- A variável 'maior' é inicializada com o primeiro elemento do array 'numeros'. Isso significa que, no início, assumimos que o maior número no array é o primeiro elemento (que, no caso deste array específico, é '1').
+
+
 - ## Repostas
 ![03](https://github.com/user-attachments/assets/ffa28d66-4689-476d-83b3-47a24d4c4fa1)
 
