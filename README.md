@@ -93,6 +93,19 @@ Usamos um laço 'for-each' para iterar sobre cada elemento do array e imprimir s
 - Descrição: Crie um array de inteiros e ordene os elementos em ordem crescente.
 - Neste exercício, você aprenderá a criar um array de inteiros em Java e a ordenar os elementos desse array em ordem crescente. A ordenação de arrays é uma operação comum e útil em muitas aplicações, como classificação de dados e preparação de listas para busca binária.
 
+### Explicação do 'Arrays.sort'
+A biblioteca usada na linha 'Arrays.sort(numeros);' é a classe 'Arrays' do pacote 'java.util', Essa classe fornece vários métodos utilitários estáticos para manipulação de arrays, como ordenação, busca, comparação e preenchimento
+
+Aqui está um resumo do que a linha 'Arrays.sort(numeros);'faz;
+- 'Arrays.sort(numeros); ':Este método orderna o array 'numeros' em ordem crescente. Ele usa um algoritmo de ordenação eficiente, que pode virar dependendo da implementação, mas geralmente é uma versão modificada do quicksort ou mergesort.
+- Para usar a classe 'Arrays', você precisa importar o pacote 'java.util' no início do seu código Java. Aqui está um exemplo completo:
+- Importando a classe 'Arrays'
+- A importação é feita com a seguinte linha:
+
+![ex](https://github.com/user-attachments/assets/c0bd43df-4778-4cb9-a023-8976c4a080c7)
+- Essa importação permite que você utilize os métods estáticos da classe 'Arrays', como 'sort()','binarySearch()','equals()','fill()', entre outros.
+
+
 
 - ## Respostas
 ![05](https://github.com/user-attachments/assets/c627e534-50f5-4c0e-b127-6ce69c20a338)
