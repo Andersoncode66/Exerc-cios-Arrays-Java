@@ -79,6 +79,29 @@ Usamos um laço 'for-each' para iterar sobre cada elemento do array e imprimir s
 ![analisar](https://github.com/user-attachments/assets/a3b04d62-b62f-4a87-a71c-9716fff605e2)
 - A variável 'maior' é inicializada com o primeiro elemento do array 'numeros'. Isso significa que, no início, assumimos que o maior número no array é o primeiro elemento (que, no caso deste array específico, é '1').
 
+2. Loop 'for-each'
+
+![loop](https://github.com/user-attachments/assets/ac9ff025-2034-455c-8e52-e954c92adebf)
+- Esse loop 'for-each' percorre todos os elementos do array 'numeros'. A cada iteração, a variável 'numero' recebe o valor de um elemento do array.
+
+3. Comparação e atualização do maior valor:
+
+![MAIOR](https://github.com/user-attachments/assets/61fc2258-99ec-40d2-bebf-4960c0a1bf07)
+- Dentro do loop, há uma estrutura condicional if que verifica se o valor atual (numero) é maior do que o valor armazenado em maior.
+- Se 'numero' for maior que 'maior', o valor de 'maior' é atualizado para o valor de 'numero'.
+
+### Passo a passo do código
+- Inicialmente: maior é igual ao primeiro elemento do array, que é 1.
+- Primeira iteração: numero é 1. A condição numero > maior (1 > 1) é falsa, então maior permanece 1.
+- Segunda iteração: numero é 2. A condição numero > maior (2 > 1) é verdadeira, então maior é atualizado para 2.
+- Terceira iteração: numero é 3. A condição numero > maior (3 > 2) é verdadeira, então maior é atualizado para 3.
+- Quarta iteração: numero é 4. A condição numero > maior (4 > 3) é verdadeira, então maior é atualizado para 4.
+- Quinta iteração: numero é 15. A condição numero > maior (15 > 4) é verdadeira, então maior é atualizado para 15.
+
+### Resultado final:
+- Após todas as iterações, o valor de maior será 15, que é o maior valor no array.
+- O System.out.println("O maior valor no array é: " + maior); imprimirá: O maior valor no array é: 15.
+
 
 - ## Repostas
 ![03](https://github.com/user-attachments/assets/ffa28d66-4689-476d-83b3-47a24d4c4fa1)
