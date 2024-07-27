@@ -55,4 +55,48 @@ Usamos um laço 'for-each' para iterar sobre cada elemento do array e imprimir s
 - Neste exercício, você aprenderá a criar um array de inteiros em Java e a calcular a soma de todos os elementos desse array. A operação de soma é uma das mais básicas e comuns ao lidar com arrays, e é essencial para diversas aplicações como cálculo de médias, totais e outras estatísticas.
 
 - ## Respostas
-- 
+![resposta01](https://github.com/user-attachments/assets/375b1dbb-132d-4286-bdad-3635a27cbf84)
+
+![resposta2](https://github.com/user-attachments/assets/ee350a58-d568-4bbd-9837-cdf56e8933cc)
+
+![02](https://github.com/user-attachments/assets/55e25639-8a75-4c54-a538-d4d567651f2f)
+
+
+
+
+
+## Exercício 3: Encontrar o Maior elemento
+- Descrição: Crie um array de inteiros e encontre o maior elemento presente no array.
+- Neste exercício, você aprenderá a criar um array de inteiros em Java e a encontrar o maior elemento presente nesse array. Identificar o maior elemento de um array é uma operação comum em muitas aplicações, como encontrar o valor máximo em um conjunto de dados.
+
+
+- ## Repostas
+![03](https://github.com/user-attachments/assets/ffa28d66-4689-476d-83b3-47a24d4c4fa1)
+
+![03](https://github.com/user-attachments/assets/f4448ca2-6cae-4cfa-a44c-eabf17f91226)
+
+![03](https://github.com/user-attachments/assets/4aa453ba-075f-4b8f-af73-b35d5588f541)
+
+
+
+## Exercício 4: Inverter um Array
+- Descrição: Crie um array de inteiros e inverta os elementos desse array.
+- Neste exercício, você aprenderá a criar um array de inteiros em Java e a inverter os elementos desse array. Inverter um array é uma operação comum que pode ser útil em várias situações, como reverter a ordem de uma lista de itens ou preparar dados para determinadas operações.
+
+- ## Respostas
+![04](https://github.com/user-attachments/assets/c0e0a255-ec51-4be2-b7ca-0a2ce7ff2c17)
+
+![04](https://github.com/user-attachments/assets/b791845d-5efa-4601-ba2f-5458560863e4)
+
+
+## Exercício 5: Ordenar um Array
+- Descrição: Crie um array de inteiros e ordene os elementos em ordem crescente.
+- Neste exercício, você aprenderá a criar um array de inteiros em Java e a ordenar os elementos desse array em ordem crescente. A ordenação de arrays é uma operação comum e útil em muitas aplicações, como classificação de dados e preparação de listas para busca binária.
+
+
+- ## Respostas
+![05](https://github.com/user-attachments/assets/c627e534-50f5-4c0e-b127-6ce69c20a338)
+
+
+![05](https://github.com/user-attachments/assets/9d784764-70f8-4bda-8c45-8074fbef6574)
+
