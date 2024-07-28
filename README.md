@@ -116,7 +116,39 @@ Usamos um laço 'for-each' para iterar sobre cada elemento do array e imprimir s
 - Descrição: Crie um array de inteiros e inverta os elementos desse array.
 - Neste exercício, você aprenderá a criar um array de inteiros em Java e a inverter os elementos desse array. Inverter um array é uma operação comum que pode ser útil em várias situações, como reverter a ordem de uma lista de itens ou preparar dados para determinadas operações.
 
+
+### Explicação do Código
+1. Inicialização do array 'numeros':
+
+![arrays](https://github.com/user-attachments/assets/3417b2ad-e6bb-4ca4-aefe-d8f0f44d4532)
+
+Inicializamos um array 'numeros' comm valores '{1, 2, 3, 4, 5}'.
+
+2. Criação do array 'invertido'
+
+![arrayinvertido](https://github.com/user-attachments/assets/718ca6ac-c2a9-498b-bc45-c76ba251d66e)
+
+Criamos um novo array 'invertido' com mesmo tamanho do array 'numeros'. Este array será usado para armazenar os valores do array 'numeros' em ordem inversa.
+
+3. Inversão dos elementos do array 'numeros':
+
+![numeros](https://github.com/user-attachments/assets/0f193b0e-7fc4-4f20-9608-2e3ea317789a)
+
+Aqui, usamos um laço 'for' para percorrer todos os elementos do array 'numeros'. A expressão 'numeros,length - 1 - i' é usada para acessar os elementos do array 'numeros' em ordem inversa e armazená-los no array 'invertido'.
+- 'numeros.length' retorna o tamanho do array 'numeros' (neste caso, 5).
+- 'numeros.length' -1' retorna o índice do último elemento do array 'numeros' (neste caso, 4).
+- 'numeros.length' -1 -i' calcula o índice inverso, onde 'i' varia de 0 a 4.
+
+4. Impressão dos elementos do array 'invertido'
+
+![lone](https://github.com/user-attachments/assets/cd0b9ba0-56b5-4ebe-b98e-315da9f649be)
+
+Usamos um laço 'for-each' para percorrer todos os elementos do array 'invertido' e imprimi-los, separados por um espaço.
+
+Resumidamente, este código cria um array 'numeros', inverte a ordem dos seus elementos e armazena o resultado em um novo array 'invertido', que então e impresso na tela.
+
 - ## Respostas
+
 ![04](https://github.com/user-attachments/assets/c0e0a255-ec51-4be2-b7ca-0a2ce7ff2c17)
 
 ![04](https://github.com/user-attachments/assets/b791845d-5efa-4601-ba2f-5458560863e4)
