@@ -171,6 +171,33 @@ Aqui está um resumo do que a linha 'Arrays.sort(numeros);'faz;
 - Essa importação permite que você utilize os métods estáticos da classe 'Arrays', como 'sort()','binarySearch()','equals()','fill()', entre outros.
 
 
+### Explicação do código
+1.  Ordenação do array 'numeros'
+
+![arrays](https://github.com/user-attachments/assets/3219e4f8-8808-4b64-8bf5-9c542fb2c514)
+
+- Usa o método 'sort' da classe 'Arrays' para ordenar o array 'numeros' em ordem crescente.
+- Após a ordernação, o array 'numeros' conterá os valores '{1, 2, 3, 4, 5, 7, 8}'.
+
+2. Impressão dos elementos do array 'numeros':
+
+![arrays](https://github.com/user-attachments/assets/a501429b-28ca-44f2-857c-5f1fd9e036a3)
+
+- Usa um laço 'for-each' para iterar sobre cada elemento do array 'numeros'.
+- Para cada elemento 'numero' no array 'numeros', imprime o valor seguido por uma string vazia ('""')
+
+A saída do código será:
+
+![numeros](https://github.com/user-attachments/assets/feca74c6-2f9c-45a9-9f8f-945c67588ac0)
+
+### Resumo
+- Importação: Importa a classe 'Arrays' que contém métodos utilitários para manipulação de arrays.
+- Inicialização: Inicializa um array de inteiros com valores desordenados.
+- Ordenação: Usa o método 'sort' da classe 'Arrays' para ordenar o array em ordem crescente
+- Impressão: Itera sobre cada elemento do array ordenado e imprime seus valores.
+
+Em essência, este código demonstra como ordenar um array de inteiros em Java usando a classe 'Arrays' e imprimir os elementos do array ordenado.
+
 
 - ## Respostas
 ![05](https://github.com/user-attachments/assets/c627e534-50f5-4c0e-b127-6ce69c20a338)
